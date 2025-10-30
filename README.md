@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
+I’m a fresher software developer with a strong interest in Java programming, web development, and cloud technologies. I enjoy learning new tools and building simple, efficient projects that help me improve my problem-solving and coding skills.
 
-<!--
-**Venkata-Kishor-Polakattu/venkata-kishor-polakattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technical Skills
+Programming Languages: Java, Python (basics)
+Web Technologies: HTML, CSS, JavaScript
+Databases: MySQL, Oracle SQL
+Version Control: Git, GitHub
+Cloud Basics: AWS, Azure, GCP (introductory level)
+Tools & IDEs: VS Code, IntelliJ IDEA, Eclipse
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+Developing Java-based applications
+Practicing Data Structures and Algorithms
+Exploring cloud computing fundamentals
+Building small projects to strengthen practical skills
