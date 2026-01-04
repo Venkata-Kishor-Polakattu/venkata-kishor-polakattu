@@ -1,5 +1,5 @@
 # About Me
-I'm an enthusiastic Java Developer and B. Tech graduate with solid fundamentals in Core Java, Spring, Spring Boot, and web technologies. Passionate about backend development, REST APIs, and building scalable applications. Having the hands on experience on building MVC applications and Rest APIs has strengthened the practical skills to dive into IT, contribute to realtime projects and grow as a professional  
+I'm an enthusiastic Java Developer and B. Tech graduate with solid fundamentals in Core Java, Spring, Spring Boot and web technologies. Passionate about backend development, REST APIs, and building scalable applications. Having the hands on experience on building MVC applications and Rest APIs has strengthened the practical skills to dive into IT, contribute to realtime projects and grow as a professional  
 
 # Technical Skills
 Programming Languages: Java, Python (basics)
